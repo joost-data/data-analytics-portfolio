@@ -31,7 +31,7 @@ I am currently formalizing my analytics stack through the **IBM Data Analyst Pro
 From **early 2026**, I am targeting **Data Analyst / Marketing Analyst roles** where I can combine hands-on analysis, AI-assisted workflows, and strong stakeholder communication.
 
 
-## Projects
+## Upcoming Projects
 1. Retail Marketing EDA
 2. SQL Funnel Case Study
 3. Marketing Analytics & ROAS
