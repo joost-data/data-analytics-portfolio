@@ -1,2 +1,12 @@
 .DS_Store
-.DS_Store
+**/.DS_Store
+
+# Local data & DB artifacts
+data/raw/
+data/processed/
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
