@@ -30,11 +30,19 @@ I am currently formalizing my analytics stack through the **IBM Data Analyst Pro
 
 From **early 2026**, I am targeting **Data Analyst / Marketing Analyst roles** where I can combine hands-on analysis, AI-assisted workflows, and strong stakeholder communication.
 
+## Projects
+
+### Project 01 — Superstore SQL Case Study (SQLite)
+- Normalized the Superstore dataset into a relational schema (customers, products, orders, order_items)
+- Built an enriched analysis view for ISO dates + shipping time
+- Identified profit leakage concentrated in high-discount sales and specific loss-making SKUs (Tables, Machines)
+- Repo: ./project-01-sql-superstore-case-study
 
 ## Upcoming Projects
-1. Retail Marketing EDA
-2. SQL Funnel Case Study
+1. SQL Funnel Case Study
+2. IBM Data Science Capstone Project
 3. Marketing Analytics & ROAS
 4. Python Automation for Metrics
 5. Power BI Dashboard
 6. IBM Data Science Capstone
+7. Retail Marketing EDA
