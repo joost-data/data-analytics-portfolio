@@ -17,7 +17,7 @@ End-to-end SQL case study using a retail dataset.
 
 **What I did**
 - Normalized raw CSV data into a relational schema (`customers`, `products`, `orders`, `order_items`).
-- Built an enriched analysis view (ISO date parsing + shipping-days calculation) to support time-series and operational analysis.
+- Built an enriched analysis view (date parsing + shipping-days calculation) to support time-series and operational analysis.
 - Quantified profit drivers and loss concentration to support pricing/discount decisions.
 
 **Evidence (selected)**
