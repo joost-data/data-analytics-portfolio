@@ -1,0 +1,50 @@
+LanguageHaveWorkedWith,RespondentCount,LanguageWantToWorkWith,RespondentCount,DatabaseHaveWorkedWith,RespondentCount,DatabaseWantToWorkWith,RespondentCount,PlatformHaveWorkedWith,RespondentCount,PlatformWantToWorkWith,RespondentCount,WebframeHaveWorkedWith,RespondentCount,WebframeWantToWorkWith,RespondentCount
+JavaScript,14943,JavaScript,11541,PostgreSQL,11514.0,PostgreSQL,12193.0,Amazon Web Services (AWS),10871.0,Amazon Web Services (AWS),10516.0,Node.js,9230.0,React,8223.0
+SQL,12602,SQL,10944,MySQL,8556.0,Redis,6384.0,Microsoft Azure,6681.0,Microsoft Azure,6380.0,React,8999.0,Node.js,8096.0
+HTML/CSS,12410,TypeScript,10437,SQLite,7021.0,SQLite,6295.0,Google Cloud,5537.0,Google Cloud,5431.0,jQuery,4810.0,Next.js,4458.0
+TypeScript,10709,HTML/CSS,10016,MongoDB,5930.0,MySQL,6204.0,Cloudflare,3874.0,Cloudflare,4219.0,Express,4408.0,ASP.NET CORE,4166.0
+Python,9590,Python,8919,Microsoft SQL Server,5870.0,MongoDB,5618.0,Digital Ocean,3170.0,Digital Ocean,2908.0,Next.js,4399.0,Vue.js,3903.0
+Bash/Shell (all shells),7244,Go,5661,Redis,5814.0,Microsoft SQL Server,4345.0,Firebase,3025.0,Vercel,2776.0,ASP.NET CORE,4319.0,Angular,3309.0
+C#,6340,Rust,5597,MariaDB,3994.0,Elasticsearch,3665.0,Vercel,2875.0,Firebase,2720.0,Angular,4038.0,Express,3216.0
+Java,5982,C#,5590,Elasticsearch,3491.0,MariaDB,3078.0,Heroku,2002.0,Hetzner,1577.0,Vue.js,3642.0,FastAPI,2823.0
+PHP,4644,Bash/Shell (all shells),5582,Dynamodb,2268.0,Dynamodb,2154.0,Netlify,1662.0,Supabase,1368.0,ASP.NET,3094.0,Spring Boot,2674.0
+PowerShell,3438,Java,4048,Oracle,1907.0,Supabase,1623.0,Hetzner,1392.0,Netlify,1267.0,Spring Boot,2916.0,Svelte,2559.0
+Go,3305,PHP,2794,Cloud Firestore,1467.0,Firebase Realtime Database,1303.0,VMware,1341.0,Fly.io,1018.0,Flask,2817.0,Django,2541.0
+C++,3081,Kotlin,2738,Firebase Realtime Database,1429.0,BigQuery,1296.0,Supabase,1009.0,Heroku,1012.0,Django,2752.0,jQuery,2264.0
+C,2777,C++,2341,BigQuery,1177.0,Cosmos DB,1172.0,Managed Hosting,817.0,VMware,868.0,WordPress,2696.0,Htmx,2103.0
+Rust,2284,PowerShell,2074,Supabase,1122.0,Cloud Firestore,1155.0,"Linode, now Akamai",816.0,"Linode, now Akamai",821.0,FastAPI,2487.0,Flask,2053.0
+Kotlin,1958,C,1833,Cosmos DB,1070.0,Oracle,1113.0,OVH,779.0,Managed Hosting,709.0,Laravel,2016.0,ASP.NET,1847.0
+Ruby,1500,Dart,1506,H2,884.0,Cassandra,1083.0,Fly.io,759.0,OVH,631.0,AngularJS,1648.0,NestJS,1764.0
+Dart,1390,Swift,1382,Microsoft Access,802.0,Snowflake,843.0,Render,633.0,OpenShift,585.0,NestJS,1569.0,Laravel,1735.0
+Lua,1160,Elixir,1333,Snowflake,620.0,Neo4J,780.0,OpenShift,574.0,Databricks,546.0,Svelte,1478.0,Blazor,1665.0
+Visual Basic (.Net),957,Ruby,1294,InfluxDB,597.0,DuckDB,684.0,Oracle Cloud Infrastructure (OCI),571.0,Oracle Cloud Infrastructure (OCI),540.0,Ruby on Rails,1275.0,WordPress,1345.0
+Swift,898,Zig,1136,Cassandra,544.0,Clickhouse,636.0,Vultr,437.0,Render,529.0,Blazor,1256.0,Ruby on Rails,1250.0
+Groovy,756,Lua,1069,Neo4J,445.0,H2,573.0,Databricks,388.0,OpenStack,417.0,Nuxt.js,910.0,Astro,1147.0
+R,711,Assembly,594,Databricks SQL,402.0,Cockroachdb,567.0,PythonAnywhere,346.0,Vultr,367.0,Htmx,815.0,Nuxt.js,1145.0
+VBA,710,R,591,Clickhouse,399.0,InfluxDB,560.0,OpenStack,308.0,PythonAnywhere,350.0,Symfony,781.0,Deno,1040.0
+Assembly,685,Scala,569,Solr,388.0,Databricks SQL,526.0,IBM Cloud Or Watson,226.0,IBM Cloud Or Watson,247.0,Astro,742.0,Phoenix,907.0
+Elixir,673,F#,531,IBM DB2,326.0,Couch DB,308.0,Scaleway,216.0,Alibaba Cloud,237.0,Fastify,622.0,AngularJS,794.0
+MATLAB,592,Haskell,516,DuckDB,305.0,Solr,292.0,Alibaba Cloud,206.0,Scaleway,195.0,Phoenix,567.0,Solid.js,787.0
+Scala,507,GDScript,494,Couch DB,263.0,Microsoft Access,242.0,Colocation,140.0,Colocation,176.0,Deno,476.0,Remix,727.0
+Perl,463,Erlang,455,Cockroachdb,247.0,EventStoreDB,200.0,,,,,Strapi,469.0,Fastify,683.0
+Objective-C,390,Clojure,447,Firebird,206.0,Couchbase,185.0,,,,,Drupal,468.0,Symfony,636.0
+GDScript,387,Solidity,419,Couchbase,166.0,Firebird,174.0,,,,,Gatsby,455.0,Strapi,404.0
+Delphi,349,MicroPython,376,Presto,124.0,IBM DB2,165.0,,,,,CodeIgniter,416.0,Gatsby,255.0
+Solidity,302,Groovy,344,EventStoreDB,70.0,Datomic,147.0,,,,,Remix,407.0,Elm,248.0
+Haskell,300,Lisp,331,RavenDB,68.0,Presto,140.0,,,,,Solid.js,273.0,Drupal,208.0
+MicroPython,285,OCaml,321,Datomic,57.0,TiDB,111.0,,,,,Yii 2,245.0,CodeIgniter,183.0
+Erlang,251,Visual Basic (.Net),319,TiDB,43.0,RavenDB,99.0,,,,,Play Framework,175.0,Play Framework,136.0
+Clojure,245,Julia,254,,,,,,,,,Elm,133.0,Yii 2,123.0
+Lisp,237,Perl,244,,,,,,,,,,,,
+F#,194,VBA,225,,,,,,,,,,,,
+Zig,187,Objective-C,218,,,,,,,,,,,,
+Apex,176,MATLAB,204,,,,,,,,,,,,
+Prolog,151,Delphi,159,,,,,,,,,,,,
+Julia,143,Crystal,156,,,,,,,,,,,,
+Fortran,141,Nim,146,,,,,,,,,,,,
+Cobol,122,Apex,128,,,,,,,,,,,,
+Ada,107,Cobol,117,,,,,,,,,,,,
+OCaml,105,Prolog,109,,,,,,,,,,,,
+Crystal,83,Ada,102,,,,,,,,,,,,
+Nim,54,Fortran,89,,,,,,,,,,,,
+Zephyr,39,Zephyr,63,,,,,,,,,,,,
