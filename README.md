@@ -2,11 +2,11 @@
 
 ## About
 
-I’m Joost — a data and analytics professional with 12+ years of experience translating complex marketing, product, and research data into clear, decision-ready insights.
+I’m Joost — a Data Analyst with 12+ years of experience translating complex, multi-source performance and product data into evidence-based decisions, clear dashboards, and executive-ready insights.
 
-My background spans SaaS, research, and international organizations, where I’ve worked across reporting, experimentation support, performance diagnosis, and leadership dashboards. I focus on defining the right questions, preparing reliable data (SQL, Python, Excel), and explaining results in a way that helps non-technical stakeholders understand what is happening and why it matters.
+My background spans SaaS, healthcare, and research environments. I’ve owned analytics and reporting end-to-end: defining questions with stakeholders, gathering and cleaning data (SQL, Python, Excel/Sheets), analysing performance and behaviour (funnels, attribution, cohorts, experiments), and communicating results in a way that supports clear next steps.
 
-I’m currently formalizing and documenting my analytics practice through structured portfolio projects, combining Python, SQL, BI dashboards, and clear written communication. I use generative AI selectively to accelerate drafting and iteration, with emphasis on verification, reproducibility, and judgment.
+This portfolio contains structured projects that reflect how analysts work in real teams: a clear problem statement, a reproducible approach, concise findings, and decision framing. Where I use generative AI, it’s for drafting and iteration—final outputs are verified and documented for clarity and reproducibility.
 
 ---
 
