@@ -57,17 +57,21 @@ Repo: `./project-02-data_visualization-python-developer-survey`
 
 ---
 
-## Upcoming Projects
+### Project 03 — NHS Scotland A&E Performance Analysis (Power BI)
 
-### Project 03 - Anchor BI Project (in progress)
+Public-sector performance dashboard analyzing Accident & Emergency demand and waiting time performance across NHS Scotland.
 
+##What I did##
+- Designed a dimensional model from raw monthly public health datasets.
+- Engineered KPIs to evaluate attendance growth and breach patterns.
+- Built a 3-page executive dashboard:
+  - Performance overview
+  - Operational drivers (referral & timing)
+  - Data definitions & governance notes
 
----
+- Focus
+  - Executive-level reporting
+  - Health system pressure analysis
+  - Transparent KPI definitions
 
-## How to Read This Portfolio
-
-Each project is documented at two levels:
-- **README.md** — concise, external-facing summary focused on insights and outcomes
-- **PROJECT_BRIEF.md** — internal, step-by-step documentation of analytical decisions and trade-offs
-
-The goal is clarity, judgment, and real-world relevance rather than technical display.
+Repo: ./projects/project-03-nhs-scotland-ae-performance-analysis
