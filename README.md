@@ -53,7 +53,7 @@ This project focuses on transforming messy, multi-valued survey data into accura
 - Relational databases remain foundational, with growing interest in cloud-native solutions.
 - Demographics provide important context for interpreting technology trends.
 
-Repo: `./project-02-data_visualization-python-developer-survey`
+Repo: `./project-02-developer-survey-tech-trends-analysis-report-cognos`
 
 ---
 
@@ -74,4 +74,4 @@ Public-sector performance dashboard analyzing Accident & Emergency demand and wa
   - Health system pressure analysis
   - Transparent KPI definitions
 
-Repo: ./projects/project-03-nhs-scotland-ae-performance-analysis
+Repo: `./project-03-nhs-scotland-ae-performance-analysis-dashboard-power-bi`
