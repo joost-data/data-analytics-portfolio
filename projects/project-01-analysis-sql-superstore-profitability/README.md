@@ -5,6 +5,11 @@ This project restructures the Superstore data and uses it to answer a small set 
 
 The results point to one dominant theme: profit is driven by pricing discipline and product mix. Losses are concentrated, predictable, and largely preventable.
 
+## Quick links
+- Insights summary: `./reports/insights.md`
+- SQL analysis files: `./sql/`
+- Figures: `./figures/`
+
 ## Business Questions
 - How are sales and profit changing over time?
 - Which product areas generate profit, and which destroy it?

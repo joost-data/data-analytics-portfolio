@@ -9,6 +9,11 @@ The result is a simple, executive-style Power BI report with:
 - A “drivers” page showing when and how people attend A&E
 - A definitions and data notes page to support correct interpretation
 
+## Quick links
+- Dashboard screenshots: `./dashboards/`
+- Insights summary: `./reports/insights.md`
+- Slides (PPT + PDF): `./slides/`
+
 ## What you can learn from this report
 - Whether A&E attendance is rising or falling over time
 - Whether long waits are becoming more or less common
