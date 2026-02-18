@@ -58,20 +58,19 @@ Repo: `./project-02-developer-survey-tech-trends-analysis-report-cognos`
 ---
 
 ### Project 03 — NHS Scotland A&E Performance Analysis (Power BI)
+Public-sector performance dashboard analyzing Accident & Emergency demand and waiting time performance (2007–2025).
 
-Public-sector performance dashboard analyzing Accident & Emergency demand and waiting time performance across NHS Scotland.
+**What I did**
+- Built a semantic model in Power BI to keep KPIs consistent and visuals reliable.
+- Created an executive report with three pages:
+  - Performance overview (trend + hotspot view)
+  - Drivers (arrival routes and timing patterns, including month-of-year)
+  - Definitions and data notes (to prevent misinterpretation)
+- Used a single year-range slicer to explore different periods without changing report structure.
 
-##What I did##
-- Designed a dimensional model from raw monthly public health datasets.
-- Engineered KPIs to evaluate attendance growth and breach patterns.
-- Built a 3-page executive dashboard:
-  - Performance overview
-  - Operational drivers (referral & timing)
-  - Data definitions & governance notes
-
-- Focus
-  - Executive-level reporting
-  - Health system pressure analysis
-  - Transparent KPI definitions
+**What the report helps answer**
+- How A&E demand changes over time
+- When and where long waits over 4 hours are most visible
+- Which timing and referral patterns help explain pressure periods
 
 Repo: `./project-03-nhs-scotland-ae-performance-analysis-dashboard-power-bi`
