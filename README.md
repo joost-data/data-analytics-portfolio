@@ -28,7 +28,7 @@ End-to-end SQL case study analyzing where profit is created and destroyed in a r
   - **30%+ discount:** **–48.16%** margin (**–$125,007** profit)
 - Losses concentrate in a small number of sub-categories and SKUs, notably **Tables** and several **Machines** products.
 
-Repo:(./project-01-analysis-sql-superstore-profitability)
+[Repo Project 01:](./project-01-analysis-sql-superstore-profitability)
 
 ---
 
@@ -53,7 +53,7 @@ This project focuses on transforming messy, multi-valued survey data into accura
 - Relational databases remain foundational, with growing interest in cloud-native solutions.
 - Demographics provide important context for interpreting technology trends.
 
-[Repo:](./project-02-developer-survey-tech-trends-analysis-report-cognos)
+[Repo Project 02:](./project-02-developer-survey-tech-trends-analysis-report-cognos)
 
 ---
 
@@ -73,4 +73,4 @@ Public-sector performance dashboard analyzing Accident & Emergency demand and wa
 - When and where long waits over 4 hours are most visible
 - Which timing and referral patterns help explain pressure periods
 
-[Repo:](./project-03-nhs-scotland-ae-performance-analysis-dashboard-power-bi)
+[Repo Project 03:](./project-03-nhs-scotland-ae-performance-analysis-dashboard-power-bi)
