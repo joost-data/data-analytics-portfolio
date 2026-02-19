@@ -1,35 +1,34 @@
 # Superstore SQL Case Study — Insights (SQLite)
 
 ## Scope
-This analysis uses the Superstore dataset loaded into SQLite and normalized into a basic analytics schema. A derived view parses order/ship dates into ISO format and computes shipping days.
+This project uses the Superstore retail dataset to understand where profit is made and where it is lost.
 
-## Headline KPIs
-- Total sales: 2,297,200.86
-- Total profit: 286,397.02
-- Profit margin: 12.47%
+## Headline results
+- Total sales: **$2,297,200.86**
+- Total profit: **$286,397.02**
+- Profit margin: **12.47%**
 
-## Key observations (evidence-first)
-1) **Discount depth is the dominant profitability driver**
-   - 0% discount: 29.51% margin (320,987.60 profit)
-   - 30%+ discount: -48.16% margin (-125,006.78 profit)
-   Interpretation: deep discounting is strongly associated with negative contribution margin.
+## What stands out
+- **Discounts drive profit most.**
+  - No discount: **29.51%** margin (**$320,987.60** profit)
+  - 30%+ discount: **–48.16%** margin (**–$125,006.78** profit)
+  - Deep discounts often turn sales into losses.
+- **Some categories perform much better than others.**
+  - Technology and Office Supplies are around **17%** margin.
+  - Furniture is around **2.5%** margin.
+  - Furniture tends to be the weakest area.
+- **Losses cluster in a small set of products.**
+  - Tables: **–$17,725.48** profit on **$206,965.53** sales (**–8.56%** margin)
+  - Several Machines items show very large losses.
+  - A small number of items likely explain a large share of the total loss.
+- **The Central region lags behind.**
+  - Central margin: **7.92%**
+  - West margin: **14.94%**
+  - This tends to reflect a mix of discount choices and what is being sold.
 
-2) **Category performance is uneven**
-   - Technology and Office Supplies both operate at ~17% margin.
-   - Furniture operates at ~2.5% margin.
-   Interpretation: current Furniture pricing/discount/service model is structurally weaker.
+## Recommended actions
+- Set clear discount limits, with extra controls for known loss items.
+- Focus Furniture recovery on Tables: reduce discount depth and protect minimum pricing.
+- Review Machines losses item-by-item and enforce minimum profit rules.
+- Break down Central performance by discount level and product mix to target the main drivers.
 
-3) **Profit leakage concentrates in Tables and Machines**
-   - Tables: -17,725.48 profit on 206,965.53 sales (-8.56% margin).
-   - Several Machines products show large negative profit with extreme negative margins.
-   Interpretation: a small set of SKUs likely accounts for a disproportionate share of losses.
-
-4) **Central region underperforms**
-   - Central margin 7.92% vs West 14.94%.
-   Interpretation: likely driven by a combination of discount mix + product mix (requires decomposition).
-
-## Recommendations (decision-oriented)
-1) Introduce discount guardrails (approval thresholds; SKU-level floors for known loss items).
-2) Prioritize Furniture margin recovery via Tables (reduce discount depth, enforce price floors, evaluate assortment).
-3) Address Machines loss concentration (separate strategic loss leaders vs accidental; enforce minimum margin).
-4) Decompose Central region performance by discount bucket and product mix to target the biggest drivers.
