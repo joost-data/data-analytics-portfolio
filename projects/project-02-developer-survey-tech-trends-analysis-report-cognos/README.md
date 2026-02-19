@@ -6,10 +6,10 @@ This project analyzes current and anticipated technology trends among software d
 The findings show that developer ecosystems are shaped by **stability with gradual change**. Core technologies remain dominant, while interest in newer and cloud-native tools grows incrementally rather than through disruptive shifts. Python was used for data cleaning and aggregation, IBM Cognos Analytics for interactive dashboards, and insights were communicated through a stakeholder-ready presentation.
 
 ## Quick links
-- Dashboard screenshots: `./dashboards/`
-- Insights summary: `./reports/insights.md`
-- Slides (PPT + PDF): `./slides/`
-- Python script(s): `./python/`
+- [Dashboard screenshots:](`./dashboards/`)
+- [Insights summary:](`./reports/insights.md`)
+- [Slides (PPT + PDF):](`./slides/`)
+- [Python script(s):](`./python/`)
 
 ---
 
