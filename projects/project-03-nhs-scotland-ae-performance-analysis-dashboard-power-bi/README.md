@@ -10,9 +10,9 @@ The result is a simple, executive-style Power BI report with:
 - A definitions and data notes page to support correct interpretation
 
 ## Quick links
-- Dashboard screenshots: `./dashboards/`
-- Insights summary: `./reports/insights.md`
-- Slides (PPT + PDF): `./slides/`
+- [Dashboard screenshots:](./dashboards/)
+- [Insights summary:](./reports/insights.md)
+- [Slides (PPT + PDF):](./slides/)
 
 ## What you can learn from this report
 - Whether A&E attendance is rising or falling over time
@@ -75,7 +75,7 @@ Defines key terms and explains data limitations so results are not misread.
 
 - Total Attendances
 - % Seen Within 4 Hours
-- Number Over 4 / 8 / 12 Hours
+- Number Over 4 Hours
 - YoY Attendance Change
 - Breach Rates by Referral Source
 - Peak Attendance Timing Patterns
