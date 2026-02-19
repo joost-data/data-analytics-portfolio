@@ -28,7 +28,7 @@ End-to-end SQL case study analyzing where profit is created and destroyed in a r
   - **30%+ discount:** **–48.16%** margin (**–$125,007** profit)
 - Losses concentrate in a small number of sub-categories and SKUs, notably **Tables** and several **Machines** products.
 
-[Repo:](./project-01-analysis-sql-superstore-profitability)
+Repo:(./project-01-analysis-sql-superstore-profitability)
 
 ---
 
