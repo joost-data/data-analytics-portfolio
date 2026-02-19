@@ -8,9 +8,6 @@
 - Public Kaggle dataset:
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-## Raw file
-- data/raw/superstore.csv
-
 ## Column glossary (high level)
 - Order Date / Ship Date: used for trends and shipping speed
 - Sales / Profit / Discount / Quantity: KPI measures
