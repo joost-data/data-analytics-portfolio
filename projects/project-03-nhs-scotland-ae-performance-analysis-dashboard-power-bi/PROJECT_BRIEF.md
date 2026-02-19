@@ -37,4 +37,4 @@ Page 3 — Definitions:
 - Screenshots (3 pages)
 - PDF export
 - PPTX presentation
-- Insights summary (`reports/insights.md`)
+- [Insights summary](`reports/insights.md`)
