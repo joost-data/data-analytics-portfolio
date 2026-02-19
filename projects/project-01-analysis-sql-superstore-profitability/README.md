@@ -6,9 +6,8 @@ This project restructures the Superstore dataset and uses it to answer a small s
 One message is consistent throughout the results: profit depends on pricing discipline and what products are being sold. Losses are concentrated, repeatable, and often avoidable.
 
 ## Quick links
-- Insights summary: `./reports/insights.md`
-- SQL analysis files: `./sql/`
-- Figures: `./figures/`
+- [Insights summary:](./reports/insights.md)
+- [SQL analysis files:](./sql/)
 
 ## Business Questions
 - How are sales and profit changing over time?
