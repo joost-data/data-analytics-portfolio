@@ -2,11 +2,13 @@
 
 ## About
 
-I’m Joost — a Data Analyst with 12+ years of experience translating complex, multi-source performance and product data into evidence-based decisions, clear dashboards, and executive-ready insights.
+I’m Joost — a Data & Analyst with 12+ years of experience translating complex, multi-source performance and product data into evidence-based decisions, clear dashboards, and executive-ready insights.
 
 My background spans SaaS, healthcare, and research environments. I’ve owned analytics and reporting end-to-end: defining questions with stakeholders, gathering and cleaning data (SQL, Python, Excel/Sheets), analysing performance and behaviour (funnels, attribution, cohorts, experiments), and communicating results in a way that supports clear next steps.
 
 This portfolio contains structured projects that reflect how analysts work in real teams: a clear problem statement, a reproducible approach, concise findings, and decision framing. Where I use generative AI, it’s for drafting and iteration—final outputs are verified and documented for clarity and reproducibility.
+
+I completed the IBM Data Analyst Professional Certificate and IBM Business Intelligence Analyst Professional Certificate in 2026 to formalise and deepen the work I’ve been doing for over a decade. Current work focuses on building practical, decision-oriented projects using SQL, Python, Power BI and Tableau.
 
 ---
 
