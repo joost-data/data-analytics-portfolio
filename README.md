@@ -1,78 +1,19 @@
 # Data Analytics Portfolio
 
 ## About
+I’m Joost — a Data Analyst with 12+ years turning multi-source performance and product data into decision-ready insights, clear dashboards, and executive reporting across SaaS, healthcare, and research.
 
-I’m Joost — a Data & Analyst with 12+ years of experience translating complex, multi-source performance and product data into evidence-based decisions, clear dashboards, and executive-ready insights.
+I work end-to-end: define the question, gather and clean data (SQL, Python, Excel/Sheets), analyse patterns (funnels, attribution, cohorts, experiments), and communicate results so non-technical stakeholders can act.
 
-My background spans SaaS, healthcare, and research environments. I’ve owned analytics and reporting end-to-end: defining questions with stakeholders, gathering and cleaning data (SQL, Python, Excel/Sheets), analysing performance and behaviour (funnels, attribution, cohorts, experiments), and communicating results in a way that supports clear next steps.
+This portfolio is built like real team work: clear problem framing, reproducible steps, concise findings, and decision context. Where generative AI is used, it supports drafting and iteration; final outputs are verified and documented.
 
-This portfolio contains structured projects that reflect how analysts work in real teams: a clear problem statement, a reproducible approach, concise findings, and decision framing. Where I use generative AI, it’s for drafting and iteration—final outputs are verified and documented for clarity and reproducibility.
-
-I completed the IBM Data Analyst Professional Certificate and IBM Business Intelligence Analyst Professional Certificate in 2026 to formalise and deepen the work I’ve been doing for over a decade. Current work focuses on building practical, decision-oriented projects using SQL, Python, Power BI and Tableau.
+I completed IBM’s Data Analyst Professional Certificate and IBM’s Business Intelligence Analyst Professional Certificate in 2026 to formalise and deepen the work I’ve been doing for over a decade. Current work focuses on practical, decision-oriented projects in SQL, Python, Power BI (PL-300 track), and Tableau.
 
 ---
 
 ## Projects
 
-### Project 01 — Superstore SQL Profitability Analysis (SQLite)
-
-End-to-end SQL case study analyzing where profit is created and destroyed in a retail business.
-
-**What I did**
-- Normalized raw CSV data into a relational schema (`customers`, `products`, `orders`, `order_items`).
-- Built analysis views to support time-based and operational questions.
-- Quantified profit drivers and loss concentration to inform pricing and discount decisions.
-
-**Selected evidence**
-- Overall profit margin: **12.47%** (profit **$286,397** on sales **$2,297,201**).
-- Discount depth is the dominant profitability driver:
-  - **0% discount:** **29.51%** margin (**+$320,988** profit)
-  - **30%+ discount:** **–48.16%** margin (**–$125,007** profit)
-- Losses concentrate in a small number of sub-categories and SKUs, notably **Tables** and several **Machines** products.
-
-[Repo Project 01:](./project-01-analysis-sql-superstore-profitability)
-
----
-
-### Project 02 — Developer Survey Analysis & Visualization (Python, BI, Storytelling)
-
-Analysis of current and anticipated technology trends among software developers using large-scale survey data.
-
-This project focuses on transforming messy, multi-valued survey data into accurate, performant dashboards and stakeholder-ready insights.
-
-**What I did**
-- Prepared and cleaned raw survey data in Python, handling multi-valued categorical fields.
-- Designed a pre-aggregation strategy to ensure accurate counts and fast BI performance.
-- Built interactive dashboards in IBM Cognos covering:
-  - Current technology usage  
-  - Future technology preferences  
-  - Developer demographics
-- Synthesized findings into a concise presentation for a non-technical audience.
-
-**Key takeaways**
-- A small set of languages and databases dominate current usage.
-- Future preferences largely follow existing adoption, indicating gradual rather than disruptive change.
-- Relational databases remain foundational, with growing interest in cloud-native solutions.
-- Demographics provide important context for interpreting technology trends.
-
-[Repo Project 02:](./project-02-developer-survey-tech-trends-analysis-report-cognos)
-
----
-
-### Project 03 — NHS Scotland A&E Performance Analysis (Power BI)
-Public-sector performance dashboard analyzing Accident & Emergency demand and waiting time performance (2007–2025).
-
-**What I did**
-- Built a semantic model in Power BI to keep KPIs consistent and visuals reliable.
-- Created an executive report with three pages:
-  - Performance overview (trend + hotspot view)
-  - Drivers (arrival routes and timing patterns, including month-of-year)
-  - Definitions and data notes (to prevent misinterpretation)
-- Used a single year-range slicer to explore different periods without changing report structure.
-
-**What the report helps answer**
-- How A&E demand changes over time
-- When and where long waits over 4 hours are most visible
-- Which timing and referral patterns help explain pressure periods
-
-[Repo Project 03:](./project-03-nhs-scotland-ae-performance-analysis-dashboard-power-bi)
+- **Project 01 — Superstore SQL Profitability Analysis (SQLite):** End-to-end SQL case study showing where profit is created and destroyed, with discount guardrails and loss concentration by product and region. [Open](./projects/project-01-analysis-sql-superstore-profitability)
+- **Project 02 — Developer Survey Technology Trends (Python + Cognos):** Cleaned multi-valued survey data in Python, pre-aggregated for correct counts, and built performant BI dashboards with stakeholder-ready takeaways. [Open](./projects/project-02-developer-survey-tech-trends-analysis-report-cognos)
+- **Project 03 — NHS Scotland A&E Performance Dashboard (Power BI):** Built a semantic model and a 3-page executive report (2007–2025) to track demand and long waits (4+ hours) with timing and referral drivers. [Open](./projects/project-03-nhs-scotland-ae-performance-analysis-dashboard-power-bi)
+- **Project 04 — Retail Sales Performance BI Capstone (Excel + PostgreSQL + Tableau):** Cleaned and analyzed retail sales data across modules (Excel pivots/charts, PostgreSQL rollups, Tableau dashboard) and packaged findings into a stakeholder presentation. [Open](./projects/project-04-retail-sales-performance-bi-capstone-excel-postgresql-tableau)
