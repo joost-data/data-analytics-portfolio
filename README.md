@@ -7,7 +7,7 @@ I work end-to-end: define the question, gather and clean data (SQL, Python, Exce
 
 This portfolio is built like real team work: clear problem framing, reproducible steps, concise findings, and decision context. Where generative AI is used, it supports drafting and iteration; final outputs are verified and documented.
 
-I completed IBM’s Data Analyst Professional Certificate and IBM’s Business Intelligence Analyst Professional Certificate in 2026 to formalise and deepen the work I’ve been doing for over a decade. Current work focuses on practical, decision-oriented projects in SQL, Python, Power BI (PL-300 track), and Tableau.
+Professional training includes IBM’s Data Analyst and Business Intelligence Analyst Professional Certificates. I’m currently preparing for the Microsoft Power BI Data Analyst (PL-300) certification and completing additional portfolio projects.
 
 ---
 
